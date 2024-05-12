@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1610571554 source:c:\users\hp\desktop\miniprotest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"film.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"film.h"
+
+1607537195 c:\users\hp\desktop\miniprotest\film.h
+	<stdio.h>
+	<string.h>
+
+1610571462 source:c:\users\hp\desktop\miniprotest\film.c
+	"film.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+
